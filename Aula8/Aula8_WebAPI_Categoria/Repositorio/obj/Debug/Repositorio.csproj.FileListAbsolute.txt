@@ -1,0 +1,5 @@
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\Aula8_WebAPI_Categoria\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\Aula8_WebAPI_Categoria\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\Aula8_WebAPI_Categoria\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\Aula8_WebAPI_Categoria\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\Aula8_WebAPI_Categoria\Repositorio\obj\Debug\Repositorio.pdb

@@ -1,0 +1,6 @@
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\bin\Debug\Aula3_POO_Exercicio.exe.config
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\bin\Debug\Aula3_POO_Exercicio.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\bin\Debug\Aula3_POO_Exercicio.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\obj\Debug\Aula3_POO_Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\obj\Debug\Aula3_POO_Exercicio.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula3_POO_Exercicio\Aula3_POO_Exercicio\obj\Debug\Aula3_POO_Exercicio.pdb

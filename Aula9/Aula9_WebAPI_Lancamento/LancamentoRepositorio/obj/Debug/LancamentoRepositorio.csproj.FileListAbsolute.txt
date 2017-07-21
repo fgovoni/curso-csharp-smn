@@ -1,0 +1,5 @@
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula9\Aula9_WebAPI_Lancamento\LancamentoRepositorio\bin\Debug\LancamentoRepositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula9\Aula9_WebAPI_Lancamento\LancamentoRepositorio\bin\Debug\LancamentoRepositorio.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula9\Aula9_WebAPI_Lancamento\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula9\Aula9_WebAPI_Lancamento\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula9\Aula9_WebAPI_Lancamento\LancamentoRepositorio\obj\Debug\LancamentoRepositorio.pdb

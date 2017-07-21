@@ -1,0 +1,6 @@
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\bin\Debug\Aula1_LogicaDeProgramacao_Exercicio1.exe.config
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\obj\Debug\Aula1_LogicaDeProgramacao_Exercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\bin\Debug\Aula1_LogicaDeProgramacao_Exercicio1.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\bin\Debug\Aula1_LogicaDeProgramacao_Exercicio1.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\obj\Debug\Aula1_LogicaDeProgramacao_Exercicio1.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula1\Aula1_LogicaDeProgramacao_Exercicio1\Aula1_LogicaDeProgramacao_Exercicio1\obj\Debug\Aula1_LogicaDeProgramacao_Exercicio1.pdb

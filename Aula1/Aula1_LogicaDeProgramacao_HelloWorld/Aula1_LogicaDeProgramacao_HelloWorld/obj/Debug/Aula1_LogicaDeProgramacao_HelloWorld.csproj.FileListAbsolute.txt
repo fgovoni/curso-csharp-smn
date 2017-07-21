@@ -1,0 +1,6 @@
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\bin\Debug\Aula1_LogicaDeProgramacao_HelloWorld.exe.config
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\bin\Debug\Aula1_LogicaDeProgramacao_HelloWorld.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\bin\Debug\Aula1_LogicaDeProgramacao_HelloWorld.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\obj\Debug\Aula1_LogicaDeProgramacao_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\obj\Debug\Aula1_LogicaDeProgramacao_HelloWorld.exe
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula3\POO\Aula1_LogicaDeProgramacao_HelloWorld\Aula1_LogicaDeProgramacao_HelloWorld\obj\Debug\Aula1_LogicaDeProgramacao_HelloWorld.pdb
