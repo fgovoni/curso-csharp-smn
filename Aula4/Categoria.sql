@@ -8,7 +8,7 @@ CREATE PROCEDURE [dbo].[GKSSP_InsCategoria]
 	AS
 
 	/*
-	Documentação
+	DocumentaÃ§Ã£o
 	Arquivo Fonte.....: Categoria.sql
 	Objetivo..........: Inserir uma Categoria
 	Autor.............: SMN - Lucas Felix Carvalho
@@ -34,7 +34,7 @@ CREATE PROCEDURE [dbo].[GKSSP_SelCategorias]
 	AS
 
 	/*
-	Documentação
+	DocumentaÃ§Ã£o
 	Arquivo Fonte.....: Acao.sql
 	Objetivo..........: Selecionar todas as categorias
 	Autor.............: SMN - Lucas Felix Carvalho
@@ -61,9 +61,9 @@ CREATE PROCEDURE [dbo].[GKSSP_SelCategoria]
 	AS
 
 	/*
-	Documentação
+	DocumentaÃ§Ã£o
 	Arquivo Fonte.....: Acao.sql
-	Objetivo..........: Selecionar categoria em específico
+	Objetivo..........: Selecionar categoria em especÃ­fico
 	Autor.............: SMN - Lucas Felix Carvalho
  	Data..............: 11/07/2017
 	Ex................: EXEC [dbo].[GKSSP_SelCategoria] 1
@@ -90,7 +90,7 @@ CREATE PROCEDURE [dbo].[GKSSP_UpdCategoria]
 	AS
 
 	/*
-	Documentação
+	DocumentaÃ§Ã£o
 	Arquivo Fonte.....: Acao.sql
 	Objetivo..........: Atualizar uma categoria
 	Autor.............: SMN - Lucas Felix Carvalho
@@ -113,13 +113,12 @@ IF EXISTS (SELECT * FROM dbo.sysobjects WHERE id = object_id(N'[dbo].[GKSSP_DelC
 GO
 
 CREATE PROCEDURE [dbo].[GKSSP_DelCategoria]
-	@IdCategoriaAnt		int,
-	@IdCategoriaNova	int
+	@IdCategoria	int
 
 	AS
 
 	/*
-	Documentação
+	DocumentaÃ§Ã£o
 	Arquivo Fonte.....: Acao.sql
 	Objetivo..........: Deletar uma categoria
 	Autor.............: SMN - Lucas Felix Carvalho
@@ -130,11 +129,10 @@ CREATE PROCEDURE [dbo].[GKSSP_DelCategoria]
 
 	BEGIN
 	
-		UPDATE [dbo].[Lancamentos]
-			SET IdAcao = @IdCategoriaAnt
-			WHERE IdAcao = @IdCategoriaNova;
+		DELETE FROM [dbo].[Lancamentos]
+			WHERE IdCategoria = @IdCategoria;
 
-		DELETE FROM [dbo].[Categoria]
-			WHERE IdCategoria = @IdCategoriaAnt;
+		DELETE FROM[dbo].[Categoria]
+			WHERE IdCategoria = @IdCategoria;
 	END
 GO

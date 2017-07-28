@@ -3,3 +3,8 @@ C:\Users\Govoni\Documents\SMN C#\GitHub\intensivo-c-sharp\Web API\CursoCSharpAPI
 C:\Users\Govoni\Documents\SMN C#\GitHub\intensivo-c-sharp\Web API\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.csprojResolveAssemblyReference.cache
 C:\Users\Govoni\Documents\SMN C#\GitHub\intensivo-c-sharp\Web API\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.dll
 C:\Users\Govoni\Documents\SMN C#\GitHub\intensivo-c-sharp\Web API\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\CursoCSharpAPI\CursoRepositorio\bin\Debug\CursoRepositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\CursoCSharpAPI\CursoRepositorio\bin\Debug\CursoRepositorio.pdb
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.dll
+C:\Users\Govoni\Documents\SMN C#\Aulas\Aula8\CursoCSharpAPI\CursoRepositorio\obj\Debug\CursoRepositorio.pdb
